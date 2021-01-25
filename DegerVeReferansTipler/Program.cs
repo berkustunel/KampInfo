@@ -24,6 +24,8 @@ namespace DegerVeReferansTipler
             sayilar2[0] = 999;
             //sayilar1[0] ? --> 999 olur.
             //array list falan referans tip
+
+
         }
     }
 }
